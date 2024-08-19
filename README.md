@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Amine Mezghani! 👋
 
-<!--
-**AmineMez1/AmineMez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **second-year computer science student** at the `Faculty of Sciences of Sfax` and an aspiring **Data Scientist** passionate about solving real-world problems using data.
 
-Here are some ideas to get you started:
+### 🔭 What I'm Working On
+- Enhancing my skills in `machine learning` and `data analysis`
+- Building projects using Python libraries like `pandas`, `scikit-learn`, and `Matplotlib`
+- Working on personal projects and contributing to open-source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning
+* Advanced `machine learning techniques`
+* `Data visualization` and storytelling with data
+* Exploring cloud technologies for deploying machine learning models
+
+### 📫 How to Reach Me
+- Email: [amine.mezghani10@gmail.com](mailto:amine.mezghani10@gmail.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amine-mezghani)
+
+### ⚡ Fun Facts
+- I'm passionate about applying data science to fields like `education` and `real estate`.
+- I earned my `Associate Data Scientist certification` from DataCamp after a rigorous 90-hour course.
+
+### 🚀 My Skills
+* **Programming Languages:** `Python`, `SQL`
+* **Data Science:** `Data Analysis`, `Machine Learning`, `Feature Engineering`
+* **Libraries & Tools:** `pandas`, `scikit-learn`, `Matplotlib`, `NumPy`
+* **Version Control:** `Git`, `GitHub`
