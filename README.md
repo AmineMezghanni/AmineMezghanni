@@ -1,4 +1,4 @@
-# Hi, I'm Amine Mezghani! 👋
+# Hi, I'm Amine Mezghanni! 👋
 
 I'm a **second-year computer science student** at the `Faculty of Sciences of Sfax` and an aspiring **Data Scientist** passionate about solving real-world problems using data.
 
@@ -14,7 +14,7 @@ I'm a **second-year computer science student** at the `Faculty of Sciences of Sf
 
 ### 📫 How to Reach Me
 - Email: [amine.mezghani10@gmail.com](mailto:amine.mezghani10@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amine-mezghani)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amine-mezghanni)
 
 ### ⚡ Fun Facts
 - I'm passionate about applying data science to fields like `education` and `real estate`.
