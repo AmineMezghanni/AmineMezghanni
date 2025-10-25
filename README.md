@@ -1,6 +1,6 @@
 # Hi, I'm Amine Mezghanni! 👋
 
-I'm a **second-year computer science student** at the `Faculty of Sciences of Sfax` and an aspiring **Data Scientist** passionate about solving real-world problems using data.
+I'm a **third-year computer science student** at the `Faculty of Sciences of Sfax` and an aspiring **Data Scientist** passionate about solving real-world problems using data.
 
 ### 🔭 What I'm Working On
 - Enhancing my skills in `machine learning` and `data analysis`
