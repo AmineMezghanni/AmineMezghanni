@@ -29,9 +29,9 @@ Developed a complete application for blue crab detection and age prediction usin
 - **Hedera Hashgraph Developer** — The Hashgraph Association (Dec 2024)
 - **Associate Data Scientist in Python** — DataCamp (Aug 2024)
  
-  - ---
+---
 
-  ## 📫 Contact
+## 📫 Contact
 
-  - ✉️ [amine.mezghani10@gmail.com](mailto:amine.mezghani10@gmail.com)
-  - 💼 [linkedin.com/in/amine-mezghanni](https://www.linkedin.com/in/amine-mezghanni)
+- ✉️ [amine.mezghani10@gmail.com](mailto:amine.mezghani10@gmail.com)
+- 💼 [linkedin.com/in/amine-mezghanni](https://www.linkedin.com/in/amine-mezghanni)
