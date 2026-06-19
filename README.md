@@ -34,4 +34,4 @@ Developed a complete application for blue crab detection and age prediction usin
   ## 📫 Contact
 
   - ✉️ [amine.mezghani10@gmail.com](mailto:amine.mezghani10@gmail.com)
-  - - 💼 [linkedin.com/in/amine-mezghanni](https://www.linkedin.com/in/amine-mezghanni)
+  - 💼 [linkedin.com/in/amine-mezghanni](https://www.linkedin.com/in/amine-mezghanni)
