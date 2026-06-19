@@ -1,27 +1,37 @@
-# Hi, I'm Amine Mezghanni! 👋
+# Hi, I'm Amine Mezghanni!
 
-I'm a **third-year computer science student** at the `Faculty of Sciences of Sfax` and an aspiring **Data Scientist** passionate about solving real-world problems using data.
+Computer Science graduate from the Faculty of Sciences of Sfax. Erasmus+ exchange at the University of Tübingen 🇩🇪. Blockchain summer school at UZH Zurich 🇨🇭.
 
-### 🔭 What I'm Working On
-- Enhancing my skills in `machine learning` and `data analysis`
-- Building projects using Python libraries like `pandas`, `scikit-learn`, and `Matplotlib`
-- Working on personal projects and contributing to open-source
+---
 
-### 🌱 What I'm Learning
-* Advanced `machine learning techniques`
-* `Data visualization` and storytelling with data
-* Exploring cloud technologies for deploying machine learning models
+## 💼 Experience
 
-### 📫 How to Reach Me
-- Email: [amine.mezghani10@gmail.com](mailto:amine.mezghani10@gmail.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amine-mezghanni)
+**End-of-Studies Internship — KUSA** *(Feb 2026 – Jun 2026)*  
+Designed and developed GoldPlan, a full-stack MEAN web application that centralizes resource, client, and trip-proposal management for a travel agency.
 
-### ⚡ Fun Facts
-- I'm passionate about applying data science to fields like `education` and `real estate`.
-- I earned my `Associate Data Scientist certification` from DataCamp after a rigorous 90-hour course.
+**Summer Internship — Digital Research Center of Sfax** *(Aug 2025)*  
+Developed a complete application for blue crab detection and age prediction using YOLO for object detection and an MLP Regressor for age prediction.
 
-### 🚀 My Skills
-* **Programming Languages:** `Python`, `SQL`
-* **Data Science:** `Data Analysis`, `Machine Learning`, `Feature Engineering`
-* **Libraries & Tools:** `pandas`, `scikit-learn`, `Matplotlib`, `NumPy`
-* **Version Control:** `Git`, `GitHub`
+---
+
+## 🛠️ Skills
+
+**Languages:** Python · C · Java · JavaScript  
+**Web:** HTML · CSS · ReactJS · Angular · Node.js · Express.js  
+**AI / ML:** PyTorch · scikit-learn · YOLO · OpenCV  
+**Databases:** SQL · Oracle Database · Microsoft SQL Server · MongoDB  
+**Tools:** Git · GitHub
+
+---
+
+## 📜 Certifications
+
+- **Hedera Hashgraph Developer** — The Hashgraph Association (Dec 2024)
+- - **Associate Data Scientist in Python** — DataCamp (Aug 2024)
+ 
+  - ---
+
+  ## 📫 Contact
+
+  - ✉️ [amine.mezghani10@gmail.com](mailto:amine.mezghani10@gmail.com)
+  - - 💼 [linkedin.com/in/amine-mezghanni](https://www.linkedin.com/in/amine-mezghanni)
