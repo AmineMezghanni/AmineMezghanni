@@ -27,7 +27,7 @@ Developed a complete application for blue crab detection and age prediction usin
 ## 📜 Certifications
 
 - **Hedera Hashgraph Developer** — The Hashgraph Association (Dec 2024)
-- - **Associate Data Scientist in Python** — DataCamp (Aug 2024)
+- **Associate Data Scientist in Python** — DataCamp (Aug 2024)
  
   - ---
 
